@@ -1,4 +1,5 @@
-📊 Exploratory Data Analysis (EDA) on the Iris Dataset
+📊 **Exploratory Data Analysis (EDA) on the Iris Dataset**
+
 📌 Project Description
 This project performs an Exploratory Data Analysis (EDA) on the classic Iris dataset, one of the most well-known datasets in machine learning.
 The aim is to explore, visualize, and understand the relationships between different flower features, as well as analyze species distribution patterns.
